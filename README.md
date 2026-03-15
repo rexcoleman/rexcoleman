@@ -1,25 +1,24 @@
-# Rex Coleman
+## Rex Coleman
 
-**Security architect building AI systems.** 15 years in cybersecurity (FireEye/Mandiant), now designing the infrastructure where AI meets security at scale.
+Building AI security tools. One methodology across 6 domains: **classify inputs by who controls them, then defend what the attacker can't touch.**
 
-## What I'm Building
+### Adversarial Control Analysis -- 6 Domains
 
-**[govML](https://github.com/rexcoleman/govML)** — A reusable governance framework for ML projects: 27 templates, 6 quickstart profiles, 3 code generators, and an agent orchestrator prototype. From experiment design through publication. Built to enforce reproducibility, data integrity, and fair comparisons in ML research.
+| Domain | Project | Key Finding |
+|--------|---------|-------------|
+| Network IDS | [adversarial-ids-ml](https://github.com/rexcoleman/adversarial-ids-ml) | Feature constraints reduce attack success 35% |
+| Vulnerability Prediction | [vuln-prioritization-ml](https://github.com/rexcoleman/vuln-prioritization-ml-) | ML beats CVSS by +24pp for exploit prediction |
+| AI Agent Security | [agent-redteam-framework](https://github.com/rexcoleman/agent-redteam-framework) | Reasoning chain hijacking: 100% success, novel attack class |
+| Post-Quantum Crypto | [pqc-migration-analyzer](https://github.com/rexcoleman/pqc-migration-analyzer) | 70% of your vulnerable crypto isn't yours to fix |
+| Financial Fraud | [financial-anomaly-detection](https://github.com/rexcoleman/financial-anomaly-detection) | CFA domain expertise = 91% of ML signal |
+| AI Supply Chain | [ai-supply-chain-scanner](https://github.com/rexcoleman/ai-supply-chain-scanner) | pickle.load is the SQL injection of ML |
 
-## Focus Areas
+### govML -- ML Governance Framework
 
-- **AI Security** — Adversarial evaluation, ML supply chain integrity, AI-powered threat detection
-- **ML Systems Engineering** — Reproducible experiment pipelines, governance-as-code, agent orchestration
-- **Cybersecurity + AI Intersection** — Where 15 years of security architecture meets modern ML
+[govML](https://github.com/rexcoleman/govML) is the open-source framework that governs all these projects: 32 templates, 8 generators, 7 profiles, and an [MCP server](https://github.com/rexcoleman/govml-agent-platform) for AI coding agents.
 
-## Current
+### Background
 
-- MS Computer Science @ Georgia Tech (OMSCS) — Machine Learning specialization
-- Building governed ML pipelines that scale from coursework to production
-- Researching AI security: adversarial robustness, agent exploitation, crypto-AI attack surfaces
+MS Computer Science (Machine Learning) @ Georgia Tech | 15yr cybersecurity (FireEye/Mandiant) | CFA charterholder | BSc Biochemistry
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rexcoleman-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/rexcoleman)
-
-
+*Builder, not pundit. All projects ship FINDINGS.md with quantitative results.*
