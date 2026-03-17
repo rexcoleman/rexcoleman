@@ -24,7 +24,7 @@ AI + cybersecurity. Building what's missing between ML research and production s
 
 ### govML — ML Governance Framework
 
-[govML](https://github.com/rexcoleman/govML) enforces reproducibility across all projects: 42 templates, 20 generators, contract-driven development, leakage test automation. 469+ tests across the portfolio. Try it: [govml-example-project](https://github.com/rexcoleman/govml-example-project)
+[govML](https://github.com/rexcoleman/govML) enforces reproducibility across all projects: 42 templates, 19 generators, contract-driven development, leakage test automation. 469+ tests across the portfolio. Try it: [govml-example-project](https://github.com/rexcoleman/govml-example-project)
 
 ### Background
 
