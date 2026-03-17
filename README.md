@@ -24,11 +24,11 @@ AI + cybersecurity. Building what's missing between ML research and production s
 
 ### govML — ML Governance Framework
 
-[govML](https://github.com/rexcoleman/govML) enforces reproducibility across all projects: 39 templates, 8+ generators, contract-driven development, leakage test automation. 469+ tests across the portfolio. Try it: [govml-example-project](https://github.com/rexcoleman/govml-example-project)
+[govML](https://github.com/rexcoleman/govML) enforces reproducibility across all projects: 42 templates, 20 generators, contract-driven development, leakage test automation. 469+ tests across the portfolio. Try it: [govml-example-project](https://github.com/rexcoleman/govml-example-project)
 
 ### Background
 
-MS Computer Science (Machine Learning) @ Georgia Tech · CFA charterholder · CISSP · BSc Biochemistry
+MSCS Georgia Tech (Machine Learning) · CFA charterholder · CISSP · BSc Biochemistry
 Data analytics and enterprise sales at FireEye/Mandiant (2011-2019) · Founded two ventures (2020-present)
 
 *9 projects. 469+ tests. Every project ships FINDINGS.md with [DEMONSTRATED] results.*
