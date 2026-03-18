@@ -1,6 +1,6 @@
 ## Rex Coleman
 
-AI + cybersecurity. Building what's missing between ML research and production security — **adversarial control analysis** applied across 4 ML paradigms and 9 projects.
+AI + cybersecurity. Securing AI from the architecture up — **adversarial control analysis** applied across 4 ML paradigms and 9 projects.
 
 **[rexcoleman.dev](https://rexcoleman.dev)** · [govML](https://github.com/rexcoleman/govML) · [Blog](https://rexcoleman.dev/posts/)
 
